@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# A passionate software developer from Canada 
+# A passionate software developer
 # ⚒ Languages-Frameworks-Tools ⚒
