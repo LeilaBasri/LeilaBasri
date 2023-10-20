@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="frontend.png"\>
+<img src="frontend.png" >
 
 # A passionate software developer
 # ⚒ Languages-Frameworks-Tools ⚒
