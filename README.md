@@ -33,4 +33,6 @@ Here are some ideas to get you started:
    <img src="Images/visual stodio.png" width="60" height="60">
    <img src="Images/photoshop.png" width="60" height="60">
    <img src="Images/download.png" width="60" height="60">
+   <img src="Images/git.png" width="60" height="60">
+   <img src="Images/react.png" width="60" height="60">
 </p>
