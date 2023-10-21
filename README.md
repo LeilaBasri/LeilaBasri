@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-<img src="https://github.com/LeilaBasri/LeilaBasri/assets/33898821/00634802-36b8-4764-b741-72eeee713378">
+<img src="Images/website-development.webp">
 </p>
 <h1 align="center">
    A passionate software developer
