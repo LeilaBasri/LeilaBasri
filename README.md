@@ -25,9 +25,9 @@ Here are some ideas to get you started:
    ⚒ Languages-Frameworks-Tools ⚒
 </h2>
 <p align="center">
-   <img src="">
-   <img src="">
-   <img src="">
+   <img src="Images/html.png">
+   <img src="Images/css.png">
+   <img src="Images/java script.png">
    <img src="">
    <img src="">
    <img src="">
