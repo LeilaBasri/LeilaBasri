@@ -28,11 +28,9 @@ Here are some ideas to get you started:
    <img src="Images/html.png">
    <img src="Images/css.png">
    <img src="Images/java script.png">
-   <img src="">
-   <img src="">
-   <img src="">
-   <img src="">
-   <img src="">
-   <img src="">
-   <img src="">
+   <img src="Images/mysql.png">
+   <img src="Images/php.png">
+   <img src="Images/visual stodio.png">
+   <img src="Images/photoshop.png">
+   <img src="Images/download.png">
 </p>
