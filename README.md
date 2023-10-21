@@ -21,6 +21,15 @@ Here are some ideas to get you started:
 <h1 align="center">
    A passionate software developer
 </h1>
+<p>
+   Hi there! I'm a front-end web developer with a passion for creating beautiful, responsive, and user-friendly websites. My attention to detail ensures that every project I work on is polished and professional, and my artistic background allows me to bring a unique perspective to the table.
+</p>
+<p>
+   Whether I am designing a new website from scratch, optimizing existing code for better performance, or creating custom functionalities with PHP and MySQL, always strive to produce work that is both functional and aesthetically pleasing. I believe that good web design is about more than just making things look pretty; it's about creating an experience that engages and delights users.
+</p>
+<p>
+   I am always looking for new challenges and opportunities to improve my skills and learn new technologies. Motivated, open-minded, and team-oriented with the flexibility to adapt to a variety of working environments.
+</p>
 <h2 align="center">
    ⚒ Languages-Frameworks-Tools ⚒
 </h2>
