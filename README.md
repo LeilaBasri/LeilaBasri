@@ -36,3 +36,8 @@ Here are some ideas to get you started:
    <img src="Images/git.png" width="60" height="60">
    <img src="Images/react.png" width="60" height="60">
 </p>
+<br>
+<p>
+   Get In Touch If you're interested in working with me, feel free to download my resume and get in touch. I'm always happy to chat about potential collaborations and new opportunities.
+</p>
+<h4><a href="#"> Get In Touch & Download Resume Right</a></h4>
