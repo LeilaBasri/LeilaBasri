@@ -49,4 +49,4 @@ Here are some ideas to get you started:
 <p>
    Get In Touch If you're interested in working with me, feel free to download my resume and get in touch. I'm always happy to chat about potential collaborations and new opportunities.
 </p>
-<h4><a href="Leila basri-2.pdf"> Get In Touch & Download Resume Right<img src="hand.png"></a></h4>
+<h4><a href="Leila basri-2.pdf"> Get In Touch & Download Resume Right<img src="Images/hand.png" width="20" height="20"></a></h4>
