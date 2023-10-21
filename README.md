@@ -25,12 +25,12 @@ Here are some ideas to get you started:
    ⚒ Languages-Frameworks-Tools ⚒
 </h2>
 <p align="center">
-   <img src="Images/html.png">
-   <img src="Images/css.png">
-   <img src="Images/java script.png">
-   <img src="Images/mysql.png">
-   <img src="Images/php.png">
-   <img src="Images/visual stodio.png">
-   <img src="Images/photoshop.png">
-   <img src="Images/download.png">
+   <img src="Images/html.png" width="60" height="60">
+   <img src="Images/css.png" width="60" height="60">
+   <img src="Images/java script.png" width="60" height="60">
+   <img src="Images/mysql.png" width="60" height="60">
+   <img src="Images/php.png" width="60" height="60">
+   <img src="Images/visual stodio.png" width="60" height="60">
+   <img src="Images/photoshop.png" width="60" height="60">
+   <img src="Images/download.png" width="60" height="60">
 </p>
