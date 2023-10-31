@@ -39,6 +39,7 @@ Here are some ideas to get you started:
    <img src="Images/java script.png" width="60" height="60">
    <img src="Images/mysql.png" width="60" height="60">
    <img src="Images/php.png" width="60" height="60">
+   <img src="Images/phpstorm.png" width="60" height="60">
    <img src="Images/visual stodio.png" width="60" height="60">
    <img src="Images/photoshop.png" width="60" height="60">
    <img src="Images/download.png" width="60" height="60">
