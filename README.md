@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <h1 align="center">
    A passionate software developer
 </h1>
-<a href="https://github.com/LeilaBasri/Eskan/blob/HTML/index.html">Escan</a>
+<a href="https://github.com/LeilaBasri/Eskan/blob/HTML">Escan</a>
 <p>
    Hi there! I'm a front-end web developer with a passion for creating beautiful, responsive, and user-friendly websites. My attention to detail ensures that every project I work on is polished and professional, and my artistic background allows me to bring a unique perspective to the table.
 </p>
